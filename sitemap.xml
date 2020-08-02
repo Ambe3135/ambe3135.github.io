@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ambe3135.github.io/about/index.html</loc>
+    
+    <lastmod>2020-08-02T08:23:43.141Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://ambe3135.github.io/404/index.html</loc>
     
     <lastmod>2020-08-02T04:34:44.629Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>http://ambe3135.github.io/archives/index.html</loc>
     
     <lastmod>2020-08-02T04:31:59.152Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ambe3135.github.io/about/index.html</loc>
-    
-    <lastmod>2020-08-02T04:31:19.478Z</lastmod>
     
   </url>
   
